@@ -12,6 +12,7 @@ mercury and alluminium reactions = merall
 
 unstable oxidizer = unstableox
 
+I am using TF 2.10 as it's the latest build that supports GPU use
 
 This is a work in progress, and I am utilizing my own machine that is not extremely powerful, when i'll have better equipment i'll update the results
 
