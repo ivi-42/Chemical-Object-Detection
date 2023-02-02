@@ -1,6 +1,13 @@
 
 This is a chemical_object_detection model trained to distiguish singular chemical reactions based on unique behaviours.
 
+The chemical reactions are divided in 4 groups, that can be distiguished by:
+
+Round shapes
+Filaments
+Round shapes + filament
+Smoke Propagation
+
 it tries to detect 
 ['oscillatingch', 'xlmetalpot', 'merall', 'unstableox']
 
